@@ -10,4 +10,4 @@ Training the segmentation model is as shown in [TheSegmentationModel](TheSegment
 The web app and model deployment was created using the [raspberry](raspberry.py) file.
 
 A preview of the app is as shown below
-![The app preview](app preview.jpeg)
+![The app preview](app view.jpg)
