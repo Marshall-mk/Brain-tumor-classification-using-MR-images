@@ -4,8 +4,10 @@ This repo contains all the source code for my brain tumor classification and seg
 
 The task understanding, data preprocessing and visualization was done in [TheProject](TheProject.ipynb). 
 Afterwards, model building and training was done in [TheEnsembleModel](TheEnsembleModel.ipynb). 
-Training the segmentation model is as shown in TheSegmentationModel.
-ModelCombo contains codes used to test the contribution of each model by trying out multiple model combination.
-ModelConversion contains codes used to convert the tensorflow models to tensorflow lite models.
-The web app and model deployment was created using the raspberry file.
+Training the segmentation model is as shown in [TheSegmentationModel](TheSegmentationModel.ipynb).
+[ModelCombo](ModelCombo.ipynb) contains codes used to test the contribution of each model by trying out multiple model combination.
+[ModelConversion](ModelConversion.ipynb) contains codes used to convert the tensorflow models to tensorflow lite models.
+The web app and model deployment was created using the [raspberry](raspberry.py) file.
 
+A preview of the app is as shown below
+![The app preview](app preview.jpeg)
